@@ -1,0 +1,12 @@
+td{
+    background-color: #9fa8b8;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+.circle:before {
+  content: ' \25CF';
+  font-size: 30px;
+}
